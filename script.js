@@ -28,7 +28,7 @@ ScrollReveal().reveal('.home-img,  .skills-items, .portfolio-container,  .contac
 // typing animation
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Student at rvu ','computer science','engineering'],
+  strings: ['Student at rvu','computer science','engineering'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
